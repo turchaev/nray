@@ -9,4 +9,4 @@ env:
         - DOTNET_CLI_TELEMETRY_OPTOUT: 1
 
 script:
-    - dotnet build CITest.sln -c Release
+    - dotnet build dbbh.sln -c Release
